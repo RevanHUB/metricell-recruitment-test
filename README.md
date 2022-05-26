@@ -11,7 +11,7 @@ Execute the solution file to Visual Studio with the prerequisites installed.
 # Know Issues: ✨
 
 * ``` In order to make it work I had to change the Target Framework of the project to: <TargetFramework>net5.0</TargetFramework> ```
-* ``` Los cambios no se muestran a tiempo real, la página realiza un refresh por falta de tiempo no pude implementar . ```
+* ``` Change a value will refresh the website, not real time implemented ```
 * ``` Sometimes can show some errors on the console, if didn't affected to the execution of the REST Api .```
 
 
