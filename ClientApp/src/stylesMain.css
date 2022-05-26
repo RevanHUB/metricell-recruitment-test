@@ -1,0 +1,28 @@
+﻿* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    max-width: 100vw;
+    font-family: 'Calibri';
+
+}
+body {
+    overflow:hidden;
+}
+@media screen and (min-width: 300px) and (max-width: 1000px) {
+    tr:first-of-type {
+        display:none;
+
+    }
+    tr {
+        display:flex;
+        flex-direction:column;
+    }
+}
+
+@media screen and (min-width: 300px) and (max-width: 350px) {
+    tr td button {
+        font-size: .7rem !important;
+        padding:5px;
+    }
+}
