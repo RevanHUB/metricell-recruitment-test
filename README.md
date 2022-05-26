@@ -8,12 +8,6 @@ A tecnical test provided by Metricell using React,  styled components, .NET Core
 Execute the solution file to Visual Studio with the prerequisites installed. 
          ``` .NET Core 5 redistributable, recommended .NET Hosting Bundle ``` 
 
-# Know Issues: ✨
-
-* ``` In order to make it work I had to change the Target Framework of the project to: <TargetFramework>net5.0</TargetFramework> ```
-* ``` Change a value will refresh the website, not real time implemented ```
-* ``` Sometimes can show some errors on the console, if didn't affected to the execution of the REST Api .```
-
 
 Ha sido una experiencia increíble ¡Muchas gracias Metricell por esta oportunidad!
 
